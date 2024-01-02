@@ -1,6 +1,6 @@
-import "./App.css";
-
 function App() {
+  const x = 23;
+
   return <>Hello World</>;
 }
 
