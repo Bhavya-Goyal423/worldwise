@@ -1,5 +1,4 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
-import { useEffect, useState } from "react";
 
 import Product from "./pages/Product";
 import Pricing from "./pages/Pricing";
